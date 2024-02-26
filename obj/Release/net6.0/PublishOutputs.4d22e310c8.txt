@@ -1,0 +1,7 @@
+C:\Users\AmmarSiddiqui\Desktop\test-Dotnet\dotnet demo\demodotnet\obj\Release\net6.0\PubTmp\Out\demodotnet.exe
+C:\Users\AmmarSiddiqui\Desktop\test-Dotnet\dotnet demo\demodotnet\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\AmmarSiddiqui\Desktop\test-Dotnet\dotnet demo\demodotnet\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\AmmarSiddiqui\Desktop\test-Dotnet\dotnet demo\demodotnet\obj\Release\net6.0\PubTmp\Out\demodotnet.dll
+C:\Users\AmmarSiddiqui\Desktop\test-Dotnet\dotnet demo\demodotnet\obj\Release\net6.0\PubTmp\Out\demodotnet.deps.json
+C:\Users\AmmarSiddiqui\Desktop\test-Dotnet\dotnet demo\demodotnet\obj\Release\net6.0\PubTmp\Out\demodotnet.runtimeconfig.json
+C:\Users\AmmarSiddiqui\Desktop\test-Dotnet\dotnet demo\demodotnet\obj\Release\net6.0\PubTmp\Out\demodotnet.pdb
