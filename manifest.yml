@@ -1,12 +1,12 @@
  - apiVersion: v1
-  kind: Namespace
+    kind: Namespace
   metadata:
-    name: default-1708946101484
+    name: sofdemo
   spec:
     finalizers:
       - kubernetes
 - apiVersion: apps/v1
-  kind: Deployment
+    kind: Deployment
   metadata:
     name: sofdotnet
     namespace: default-1708946101484
@@ -35,7 +35,7 @@
                 cpu: '2'
                 memory: 2G
 - apiVersion: v1
-  kind: Service
+    kind: Service
   metadata:
     name: sofdotnet-service
     namespace: default-1708946101484
